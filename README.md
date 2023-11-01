@@ -22,11 +22,6 @@ Before you begin, ensure you have met the following requirements:
 - Arduino IDE for uploading the sketch to the Arduino.
 - Necessary hardware components for motor control (e.g., servo motors, DC motors).
 
-## Hardware Setup
-
-- Describe the hardware connections required between the Raspberry Pi and the Arduino.
-- Provide a schematic or wiring diagram if available.
-
 ## Getting Started
 
 - Upload the provided Arduino sketch to your Arduino board.
